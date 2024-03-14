@@ -2,6 +2,7 @@
 ### 리눅스 Basic packages 추가
 • 리눅스 패키지 설치법
    $ sudo apt install <package name> …
+   
 • 베이직 패키지 커맨드 입력
    $ sudo apt install -y build-essential software-properties-common vim terminator
 gcc git git-all make cmake htop net-tools tree mplayer mesa-utils intel-opencl-icd
