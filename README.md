@@ -1,4 +1,3 @@
 # AI_Intel_Education
-## 인텔
-### 인텔
-인텔
+### Visual Studio Code Install
+
