@@ -7,10 +7,10 @@ $ sudo apt install software-properties-common apt-transport-https wget
 • Get Microsoft GPG key
 $ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 
-• Add the apt repository for VSC
-$ sudo add-apt-repository “deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main”
+• VSC를 설치하기 위한 저장소 추가
+$ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 
-• VSC install
+• VSC 설치
 $ sudo apt install code
 
 • Execution the VSC
